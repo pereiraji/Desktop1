@@ -1,0 +1,2 @@
+para criar a classe test de app tem que estar na classe test, o fim do nome tem que conter test e 
+cada metodo deve conter @Test
